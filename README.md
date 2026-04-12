@@ -73,6 +73,16 @@ Edit user_modules.ini - change ~/YourPath/ to your path.
 
 ---
 
+## Font Values
+
+This module uses Nerd Fonts with these font numbers:
+- T6 = font-6 (large icons)
+- T9 = font-9 (medium icons)
+- T17 = font-17 (small icons)
+- T18 = font-18 (smallest icons)
+
+Make sure your polybar config has these fonts defined.
+
 ## Requirements
 
 - Linux desktop
