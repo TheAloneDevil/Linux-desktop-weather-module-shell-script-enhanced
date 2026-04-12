@@ -53,12 +53,7 @@ Edit weather.sh (lines 8-9):
 4. Click "Create New API Key" - give it a name (e.g., "Newbar")
 5. Copy the key
 
-Update weather.sh:
-```bash
-CITY_ID="1234567"  # Line 8 - Your city ID
-API_KEY="your_key"  # Line 9 - Your API key
-```
-
+Update weather.sh (lines 8-9):
 ```bash
 CITY_ID="1234567"  # Your city ID
 API_KEY="your_key"  # Your API key
