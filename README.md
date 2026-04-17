@@ -79,7 +79,7 @@ Open `user_modules.ini` in a text editor and edit:
 
 | Line | Edit This | Change To |
 |------|-----------|----------|
-| 4 | `exec = ~/your_path/weather.sh` | (adjust path if different) |
+| `exec = ~/your_path/weather.sh` | (adjust path if different) |
 
 ### Step 6: Enable Module in your config
 Open your polybar config file:
