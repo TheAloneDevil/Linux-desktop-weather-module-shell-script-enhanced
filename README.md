@@ -28,7 +28,7 @@ This package provides an enhanced weather module for Linux desktop.
 - Output - only icon has color
 - get_temp_color - removed
 - refresh functionality - added
-- JUST_REFRESHED logic - added
+- JUST_REFRESHED logic - added ( Click on Module and Refresh to Show the New Fetch Data )
 
 ---
 
