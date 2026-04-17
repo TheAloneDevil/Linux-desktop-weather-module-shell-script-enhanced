@@ -88,7 +88,7 @@ This module uses Nerd Fonts with these font numbers (font-n = T(n+1)):
 - T18 = font-17 = "Iosevka Nerd Font:size=13;3"
 - T33 = font-32 = "Iosevka Nerd Font:size=14;4"
 
-Make sure your polybar config has these fonts defined.
+Make sure your config has these fonts defined.
 
 ## Requirements
 
