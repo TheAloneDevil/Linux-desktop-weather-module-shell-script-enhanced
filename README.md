@@ -4,7 +4,10 @@
 
 <p align="center">
 <img src="Screenshots/3.png" width="45%">
+<img src="Screenshots/4.png" width="45%">
 </p>
+
+![Weather Module](Screenshots/5.png)
 
 This package provides an enhanced weather module for Linux desktop.
 
